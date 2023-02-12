@@ -18,17 +18,20 @@ Specifically, the assignment was to prepare the following:
 ## Summary
 ### The Number of Retiring Employees by Title table
 The first objective was to create a table that reflected the number of retiring employees by title.  The team needed to compensate for the possibility of employees being listed multiple times because of a change in title,  so we used the DISTINCT ON function to ferret out employees who had more than one title in the table.  Once we created a table where each retirement candidate had just one job title, we made a query to count the number of potential retirees by title.  Here is the code and the data:
+
 ![image](https://user-images.githubusercontent.com/113741694/216791401-e832f6a7-4d8f-4ab9-9fd5-49aa2e3f142a.png)
 ![image](https://user-images.githubusercontent.com/113741694/216791413-b3d593c0-8b93-4f59-beb6-d95b308303b5.png)
 
-A very large number of junior and senior staff will be retiring from the company in the next few years and will leave thousands of job openings within the company.  The company needs a plan in place to train new junior employees and a mentorship program to help mentor senior staff.
+The data analysis team found that approximately 72,458 employees will be part of the upcoming "silver tsumani".  The company needs a plan in place to train new junior employees and a mentorship program to help mentor senior staff.
 
 ### The Employees Eligible for the Mentorship Program table
 The second objective was to create for management a list of potential employees who would be a good fit to participate in the mentorship program for new senior staff.  Specifically, the team was tasked to query for current employees born in 1965.  Here is the code and the first 10 rows of data:
 ![image](https://user-images.githubusercontent.com/113741694/216791635-c31403a8-e735-42c7-bc34-c88b22e97c7f.png)
 ![image](https://user-images.githubusercontent.com/113741694/216791661-3515faab-64f0-47a2-875d-d7661c9a171b.png)
 
-The team found 1,549 current employees who fit the criteria of mentorship eligibility.
+The team found 1,549 current employees who fit the criteria of mentorship eligibility, which is not enough to fill the upcoming employment void created by the "silver tsunami".  Some suggestions for overcoming the "silver tsunami" are:
+   + Join with an local university or junior college to develop a specific curriculum tied to each position that could be taught to students so they can start  working     at PH directly out of school and would require minimal training. 
+   + Market heavily to upcoming graduates at universities and graduate schools about the openings and opportunities at PH.
 
 
 
