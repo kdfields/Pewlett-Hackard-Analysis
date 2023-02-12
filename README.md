@@ -26,6 +26,7 @@ The data analysis team found that approximately 72,458 employees will be part of
 
 ### The Employees Eligible for the Mentorship Program table
 The second objective was to create for management a list of potential employees who would be a good fit to participate in the mentorship program for new senior staff.  Specifically, the team was tasked to query for current employees born in 1965.  Here is the code and the first 10 rows of data:
+
 ![image](https://user-images.githubusercontent.com/113741694/216791635-c31403a8-e735-42c7-bc34-c88b22e97c7f.png)
 ![image](https://user-images.githubusercontent.com/113741694/216791661-3515faab-64f0-47a2-875d-d7661c9a171b.png)
 
