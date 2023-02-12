@@ -29,7 +29,7 @@ The second objective was to create for management a list of potential employees 
 ![image](https://user-images.githubusercontent.com/113741694/216791635-c31403a8-e735-42c7-bc34-c88b22e97c7f.png)
 ![image](https://user-images.githubusercontent.com/113741694/216791661-3515faab-64f0-47a2-875d-d7661c9a171b.png)
 
-The team found 1,549 current employees who fit the criteria of mentorship eligibility, which is not enough to fill the upcoming employment void created by the "silver tsunami".  Some suggestions for overcoming the "silver tsunami" are:
+The team found 1,549 current employees who fit the criteria of mentorship eligibility, which is not enough to fill the upcoming employment void created by the "silver tsunami".  Some suggestions for overcoming the "silver tsunami":
    + Join with an local university or junior college to develop a specific curriculum tied to each position that could be taught to students so they can start  working     at PH directly out of school and would require minimal training. 
    + Market heavily to upcoming graduates at universities and graduate schools about the openings and opportunities at PH.
 
